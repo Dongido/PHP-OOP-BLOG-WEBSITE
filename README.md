@@ -16,7 +16,7 @@ Simple blog website created for educational purposes.
 6. Go to the `public` folder 
 7. Start php server by running command `php -S 127.0.0.1:8080` 
 8. Open in browser http://127.0.0.1:8080
-8. To store uploaded images create folder uploads/photos in public directory.
+8. To store uploaded images create folder `uploads/photos` in `public` directory.
 
 ------
 ## Installation using docker
