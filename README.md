@@ -3,7 +3,7 @@ Simple blog website created for educational purposes.
 
 
 
-## The framework is not well tested on production. If you use it on production you use it on your own risk.
+## The project is not well tested on production. If you use it on production you use it on your own risk.
 
 ----
 ## Installation
@@ -30,4 +30,4 @@ Make sure `docker` and `docker-compose` commands are available in command line.
 1. Run migrations - `docker-compose exec app php migrations.php`
 8. Open in browser http://127.0.0.1:8080
 
-> Credit to https://github.com/thecodeholic 
+> Thanks.
