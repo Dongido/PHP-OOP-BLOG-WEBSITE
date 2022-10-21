@@ -1,0 +1,16 @@
+{
+    "name": "app/phpmvc-framework",
+    "authors": [{
+        "name": "Gideon Gideoti",
+        "email": "gideonconnect@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.0",
+        "app/php-mvc-core": "^v1.0.5"
+    }
+}
