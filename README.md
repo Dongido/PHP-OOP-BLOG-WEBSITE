@@ -1,5 +1,5 @@
-# PHP MVC framework
-Minimalistic custom framework created for educational purposes.
+# BLOG WEBSITE WITH PHP MVC
+Simple blog website created for educational purposes.
 
 
 
